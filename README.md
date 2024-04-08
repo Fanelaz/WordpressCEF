@@ -3,6 +3,6 @@ Devoir du CEF(Centre Européen de Formation) où l'on doit créer un site vitrin
 
 
 # Info de connection
-Nom : admin 
+Nom : admin1 
 #
-Mdp : CEFwordpress
+Mdp : mdp
